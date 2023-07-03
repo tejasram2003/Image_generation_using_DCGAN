@@ -1,37 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>DCGAN Image Generator</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 30px;
-    }
-
-    h1 {
-      color: #333;
-    }
-
-    h2 {
-      color: #555;
-      margin-top: 20px;
-    }
-
-    p {
-      color: #777;
-      line-height: 1.5;
-      margin-bottom: 10px;
-    }
-
-    code {
-      font-family: Consolas, monospace;
-      background-color: #f4f4f4;
-      padding: 2px 4px;
-      color: #333;
-    }
-  </style>
-</head>
 <body>
   <h1>DCGAN Image Generator</h1>
 
